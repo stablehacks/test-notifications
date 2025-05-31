@@ -28,3 +28,5 @@
    ```bash
    npx expo start
    ```
+5. **Test Notification System**
+   Toggle the notifiation preferences on the notification preferences screen, then reload the subscriber preferences tab in Novu to see the changes
