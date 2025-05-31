@@ -18,7 +18,7 @@
    npm install
    ```
 
-3. **Update your Novu App ID, API Key, and Subscriber ID **
+3. **Update your Novu App ID, API Key, and Subscriber ID**
 
 - The following pages need to have an app id, api key, and subscriber id for the test notifications to work:
   - App.js: needs App ID, API key, and subscriber ID
