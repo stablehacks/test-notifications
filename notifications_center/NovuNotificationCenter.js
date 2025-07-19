@@ -8,7 +8,7 @@ import {
   StyleSheet,
   Image,
 } from "react-native";
-import { useNotifications } from "@novu/react-native";
+import { useNotifications, Notification } from "@novu/react-native";
 // import messaging from "@react-native-firebase/messaging";
 // import AsyncStorage from "@react-native-async-storage/async-storage";
 
